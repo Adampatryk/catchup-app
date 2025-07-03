@@ -1,0 +1,7 @@
+- start the app on the home page and redirect to onboarding if not complete
+- contacts permission step and don't let user progress if no permission
+- check permission when opening app
+- add colours and styles
+- home page components
+  - ContactCard
+  - ContactList
